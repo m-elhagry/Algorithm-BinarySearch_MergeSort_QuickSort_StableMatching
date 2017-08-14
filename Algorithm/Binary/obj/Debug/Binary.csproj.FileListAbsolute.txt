@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\ALGORITHM\Binary\bin\Debug\Binary.exe.config
+C:\Users\Mohamed\Desktop\ALGORITHM\Binary\bin\Debug\Binary.exe
+C:\Users\Mohamed\Desktop\ALGORITHM\Binary\bin\Debug\Binary.pdb
+C:\Users\Mohamed\Desktop\ALGORITHM\Binary\obj\Debug\Binary.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\ALGORITHM\Binary\obj\Debug\Binary.exe
+C:\Users\Mohamed\Desktop\ALGORITHM\Binary\obj\Debug\Binary.pdb

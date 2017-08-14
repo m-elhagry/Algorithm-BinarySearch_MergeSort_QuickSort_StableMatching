@@ -1,0 +1,5 @@
+C:\Users\Mohamed\Desktop\ALGORITHM\quick sort\bin\Debug\quick sort.exe.config
+C:\Users\Mohamed\Desktop\ALGORITHM\quick sort\bin\Debug\quick sort.exe
+C:\Users\Mohamed\Desktop\ALGORITHM\quick sort\bin\Debug\quick sort.pdb
+C:\Users\Mohamed\Desktop\ALGORITHM\quick sort\obj\Debug\quick sort.exe
+C:\Users\Mohamed\Desktop\ALGORITHM\quick sort\obj\Debug\quick sort.pdb

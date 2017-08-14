@@ -1,0 +1,6 @@
+C:\Users\Mohamed\Desktop\ALGORITHM\stable matching\bin\Debug\stable matching.exe.config
+C:\Users\Mohamed\Desktop\ALGORITHM\stable matching\bin\Debug\stable matching.exe
+C:\Users\Mohamed\Desktop\ALGORITHM\stable matching\bin\Debug\stable matching.pdb
+C:\Users\Mohamed\Desktop\ALGORITHM\stable matching\obj\Debug\stable matching.exe
+C:\Users\Mohamed\Desktop\ALGORITHM\stable matching\obj\Debug\stable matching.pdb
+C:\Users\Mohamed\Desktop\ALGORITHM\stable matching\obj\Debug\stable matching.csprojResolveAssemblyReference.cache
